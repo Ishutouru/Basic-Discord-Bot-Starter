@@ -13,4 +13,4 @@ Type the following 'npm install discord.js'
 # 3 
 After you have pasted your token in the config.json here use the terminal to turn it on.
 - Type the following 'node index.js'
-- If you get errors it most likely means the files are not in the same folder. 
+- If you get 'Error: Cannot find module' it most likely means the files are not in the same folder. 
