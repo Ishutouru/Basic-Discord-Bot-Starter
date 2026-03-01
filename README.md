@@ -2,8 +2,8 @@
 Just has the basics for a discord bot. 
 You will need to install the packages yourself, here is how to do it.
 # 1
-type the following 'npm init -y'
+Type the following 'npm init -y'
 You should get a package.json file
 # 2
-type the following 'npm install discord.js'
+Type the following 'npm install discord.js'
 You should get a package-lock.json
