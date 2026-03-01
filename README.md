@@ -1,5 +1,6 @@
 # Basic-Discord-Bot-Starter
 Just has the basics for a discord bot that is all. 
+- This is my first repository :) 
 - Must make sure you have Node.js installed.
 - Ensure all files are in the same folder.
 - You will need to install the packages yourself, here is how to do it ↓
